@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jalheart/tasklist/issues"
   },
-  "homepage": "https://github.com/jalheart/tasklist#readme"
+  "homepage": "https://github.com/jalheart/tasklist#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
